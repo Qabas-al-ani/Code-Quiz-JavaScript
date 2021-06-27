@@ -24,7 +24,11 @@ I added a screenshot of the working Code-Quiz, and also i included a litle video
 
 
  ### A Screenshot of my deployed Code Quiz JavaScript:
- ![ScreenShots]( https://github.com/Qabas-al-ani/Password-Generator-JavaScript/blob/main/screenshot/password-generat.png  )   
+ ![ScreenShots]( https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz3.png  )   
+ ![ScreenShots]( https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz2.png  )   
+ ![ScreenShots]( https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz1.png  )   
+ ![ScreenShots]( https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz4.png  )   
+ ![ScreenShots]( https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz%205.png )   
 
 
 ### A demo of my Code Quiz JavaScript:
